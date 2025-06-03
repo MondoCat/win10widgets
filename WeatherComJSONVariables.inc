@@ -24,7 +24,7 @@
 ; https://www.mapcoordinates.net
 
 Latitude=43.6532
-Longitude=79.3832
+Longitude=-79.3832
 
 ; Language used for string and date values returned in the data.
 ; If another language is desired the correct code can be found at:
