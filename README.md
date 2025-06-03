@@ -2,6 +2,7 @@
 
 * Step 1: Download WeatherComJSONVariables.inc
 * Step 2: Replace C:\Users\LocalAdmin\Documents\Rainmeter\Skins\Win10 Widgets\@Resources\Includes\WeatherComJSONVariables.inc with it. (LocalAdmin is you)
+* Step 3: Replace latitude & longitude in that file with where you live. (Like at https://www.latlong.net)
 
 # Original Content:
 
